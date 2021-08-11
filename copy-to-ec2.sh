@@ -1,2 +1,2 @@
 #!/bin/bash
-scp -r -i ~/root-keypair.pem ./program/* ubuntu@18.141.4.230:/home/ubuntu/doni-alta-ec2
+scp -r -i ~/root-keypair.pem ./program/* ubuntu@54.169.54.106:/home/ubuntu/doni-alta-ec2

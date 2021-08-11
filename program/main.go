@@ -10,7 +10,7 @@ import (
 func main() {
 	port := os.Getenv("HTTP_PORT")
 	if port == "" {
-		port = ":80"
+		port = ":8080"
 	}
 	e := echo.New()
 	e.GET("/", hello)
