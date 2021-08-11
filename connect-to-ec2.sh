@@ -1,2 +1,2 @@
 #!/bin/bash
-ssh -i ~/personal-aws.pem ubuntu@18.141.4.230
+ssh -i ~/root-keypair.pem ubuntu@18.141.4.230
