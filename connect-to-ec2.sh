@@ -1,2 +1,2 @@
 #!/bin/bash
-ssh -i ~/root-keypair.pem ubuntu@54.169.54.106
+ssh -i ~/root-keypair.pem ubuntu@54.179.169.54
